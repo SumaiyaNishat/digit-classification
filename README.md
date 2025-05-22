@@ -66,7 +66,11 @@ Run the main script to launch the GUI:
 python src/main.py
 ```
 
-Make sure you have Python 3 installed.
+If the app fails to run, the reason can be related to the Operating System. I tried this on Windows first, and it's working perfectly. But in Linux I have to install this
+
+```bash
+sudo apt install python3-tk
+```
 
 ## Flow-Chart
 
